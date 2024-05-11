@@ -1,0 +1,11 @@
+INSERT INTO category (category_name) VALUES ('Music');
+INSERT INTO category (category_name) VALUES ('Trade show');
+INSERT INTO category (category_name) VALUES ('Festival');
+INSERT INTO category (category_name) VALUES ('Outdoor');
+INSERT INTO category (category_name) VALUES ('Indoor');
+INSERT INTO category (category_name) VALUES ('21+');
+INSERT INTO category (category_name) VALUES ('Family friendly');
+INSERT INTO category (category_name) VALUES ('Rock n Roll');
+INSERT INTO category (category_name) VALUES ('EDM');
+INSERT INTO category (category_name) VALUES ('Jazz');
+INSERT INTO category (category_name) VALUES ('Country');

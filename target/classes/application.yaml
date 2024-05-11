@@ -1,0 +1,16 @@
+spring:
+  datasource:
+    username: event_manager
+    password: event_manager
+    url: jdbc:mysql://localhost:3306/event_manager
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    defer-datasource-initialization: true
+    
+  sql: 
+    init:
+      mode: always   
+    
